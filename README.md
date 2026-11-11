@@ -11,7 +11,7 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
 - **Kitchen Display**: Pengiriman pesanan ke area dapur dan pembaruan status masakan (Draft -> Dikonfirmasi -> Dimasak -> Siap).
 - **Sistem Kasir (Billing)**: Pencetakan struk tagihan pelanggan secara instan dan akurat.
 
-## 🚀 Cara Menjalankan Program (Tanpa Install Git)
+## 🚀 Cara Menjalankan Program 
 1. Pastikan **Python 3.x** sudah terinstal di komputer/laptop Anda.
 2. Unduh kode sumber aplikasi ini dengan cara:
    - Klik tombol hijau **`<> Code`** di bagian atas halaman ini.
