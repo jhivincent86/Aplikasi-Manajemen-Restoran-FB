@@ -1,0 +1,2 @@
+Proyek ini saat ini hanya menggunakan modul bawaan standar Python (built-in).
+Tidak ada library eksternal pihak ketiga yang diperlukan untuk menjalankan main.py.
