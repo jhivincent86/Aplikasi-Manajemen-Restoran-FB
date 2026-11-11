@@ -1,6 +1,6 @@
 # 🍽️ Aplikasi Manajemen Restoran & F&B (OOP Python)
 
-Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line Interface* (CLI) yang dibangun menggunakan bahasa pemrograman Python. Proyek ini dikembangkan untuk memenuhi Tugas Proyek Mata Kuliah Pemrograman Berorientasi Objek (PBO) di Universitas Mikroskil.
+Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line Interface* (CLI) yang dibangun menggunakan bahasa pemrograman Python. Proyek ini dikembangkan untuk memenuhi Tugas Proyek Mata Kuliah Pemrograman Berorientasi Objek (PBO) di Universitas Mikroskil
 
 ## ✨ Fitur Utama
 - **Manajemen Menu**: Registrasi makanan dan minuman dengan validasi stok dan harga secara ketat (Enkapsulasi).
