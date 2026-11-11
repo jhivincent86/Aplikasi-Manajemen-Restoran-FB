@@ -30,7 +30,7 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
    py main.py
    ```
    
-🛠️ Konsep OOP yang Diterapkan
+## 🛠️ Konsep OOP yang Diterapkan
 
 Aplikasi ini diarsiteki dengan prinsip Object-Oriented Programming (OOP) murni:
 
