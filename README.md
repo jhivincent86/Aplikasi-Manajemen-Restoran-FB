@@ -13,7 +13,7 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
 
 ## 🚀 Cara Menjalankan Program 
 Pastikan Python 3.x sudah terinstal di komputer/laptop Anda. Anda dapat mengunduh dan menjalankan aplikasi ini menggunakan salah satu dari dua cara berikut:
-Opsi 1: Menggunakan Git (Direkomendasikan)
+#Opsi 1: Menggunakan Git (Direkomendasikan)
 Buka terminal atau Command Prompt (CMD).
 Clone repository ini ke komputer Anda dengan menjalankan perintah:
 ```bash
@@ -23,7 +23,7 @@ Masuk ke dalam direktori folder proyek:
 ```bash
    cd Aplikasi-Manajemen-Restoran-FB
    ```
-Opsi 2: Tanpa Git (Download ZIP)
+#Opsi 2: Tanpa Git (Download ZIP)
 Unduh kode sumber aplikasi ini dengan cara:
 Klik tombol hijau `<> Code` di bagian atas halaman GitHub.
 Pilih `Download ZIP`.
