@@ -22,12 +22,10 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
 4. Buka terminal atau *Command Prompt* (CMD), lalu arahkan ke dalam folder hasil ekstrak tersebut. Contoh:
    ```bash
    cd Downloads/Aplikasi-Manajemen-Restoran-FB-main
-```
 5. Jalankan program utama dengan perintah:
 ```bash
    python main.py
 ```
-
 🛠️ Konsep OOP yang Diterapkan
 
 Aplikasi ini diarsiteki dengan prinsip Object-Oriented Programming (OOP) murni:
