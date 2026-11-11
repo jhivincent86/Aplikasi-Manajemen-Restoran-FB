@@ -28,7 +28,7 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
    python main.py
    ```
    ```bash
-      py main.py
+   py main.py
    ```
    
 🛠️ Konsep OOP yang Diterapkan
