@@ -35,8 +35,8 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
 
 Aplikasi ini diarsiteki dengan prinsip Object-Oriented Programming (OOP) murni:
 
-Abstract Class (ABC): Diimplementasikan pada cetak biru MenuItemBase.
-Inheritance (Pewarisan): Pemisahan karakteristik objek pada FoodItem dan BeverageItem.
-Encapsulation (Pengkapsulan): Perlindungan data sensitif seperti harga, stok, dan nomor meja menggunakan dekorator @property (Getter/Setter).
-Polymorphism (Polimorfisme): Method overriding pada fungsi tampilkan_info().
-Custom Exception: Penanganan error spesifik domain seperti MenuItemNotFoundException dan TableNotAvailableException.
+- Abstract Class (ABC): Diimplementasikan pada cetak biru MenuItemBase.
+- Inheritance (Pewarisan): Pemisahan karakteristik objek pada FoodItem dan BeverageItem.
+- Encapsulation (Pengkapsulan): Perlindungan data sensitif seperti harga, stok, dan nomor meja menggunakan dekorator @property (Getter/Setter).
+- Polymorphism (Polimorfisme): Method overriding pada fungsi tampilkan_info().
+- Custom Exception: Penanganan error spesifik domain seperti MenuItemNotFoundException dan TableNotAvailableException.
