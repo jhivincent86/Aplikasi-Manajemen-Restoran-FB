@@ -12,23 +12,34 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
 - **Sistem Kasir (Billing)**: Pencetakan struk tagihan pelanggan secara instan dan akurat.
 
 ## 🚀 Cara Menjalankan Program 
-1. Pastikan **Python 3.x** sudah terinstal di komputer/laptop Anda.
-2. Unduh kode sumber aplikasi ini dengan cara:
-   - Klik tombol hijau **`<> Code`** di bagian atas halaman ini.
-   - Pilih **`Download ZIP`**.
-   - Atau langsung klik [Link Download Ini](https://github.com/jhivincent86/Aplikasi-Manajemen-Restoran-FB/archive/refs/heads/main.zip).
-3. Ekstrak (Unzip) file yang baru saja diunduh tersebut ke folder pilihan Anda.
-4. Buka terminal atau *Command Prompt* (CMD), lalu arahkan ke dalam folder hasil ekstrak tersebut. Contoh:
-   ```bash
+Pastikan Python 3.x sudah terinstal di komputer/laptop Anda. Anda dapat mengunduh dan menjalankan aplikasi ini menggunakan salah satu dari dua cara berikut:
+Opsi 1: Menggunakan Git (Direkomendasikan)
+Buka terminal atau Command Prompt (CMD).
+Clone repository ini ke komputer Anda dengan menjalankan perintah:
+```bash
+   git clone https://github.com/jhivincent86/Aplikasi-Manajemen-Restoran-FB.git
+   ```
+Masuk ke dalam direktori folder proyek:
+```bash
+   cd Aplikasi-Manajemen-Restoran-FB
+   ```
+Opsi 2: Tanpa Git (Download ZIP)
+Unduh kode sumber aplikasi ini dengan cara:
+Klik tombol hijau `<> Code` di bagian atas halaman GitHub.
+Pilih `Download ZIP`.
+Atau langsung klik Link Download Ini.
+Ekstrak (Unzip) file yang baru saja diunduh tersebut ke folder pilihan Anda.
+Buka terminal atau Command Prompt (CMD), lalu arahkan ke dalam folder hasil ekstrak tersebut. Contoh:
+```bash
    cd Downloads/Aplikasi-Manajemen-Restoran-FB-main
    ```
-5. Jalankan program utama dengan perintah:
-   ```bash
-   python main.py
-   ```
-   ```bash
-   py main.py
-   ```
+Menjalankan Aplikasi
+Setelah Anda berada di dalam direktori proyek (menggunakan Opsi 1 atau Opsi 2), jalankan program utama dengan perintah:
+```bash
+python main.py
+```
+(Catatan: Gunakan perintah `py main.py` atau `python3 main.py` jika perintah di atas tidak dikenali oleh sistem Anda).
+
    
 ## 🛠️ Konsep OOP yang Diterapkan
 
