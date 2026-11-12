@@ -10,7 +10,6 @@ Aplikasi ini adalah sistem manajemen operasional restoran berbasis *Command Line
 - **Sistem Kasir (Billing)**: Pencetakan struk tagihan pelanggan secara instan dan akurat.
 
 ## 🚀 Cara Menjalankan Program
-
 Pastikan **Python 3.x** sudah terinstal di komputer/laptop Anda. Anda dapat mengunduh dan menjalankan aplikasi ini menggunakan salah satu dari dua cara berikut:
 
 ### Opsi 1: Menggunakan Git (Direkomendasikan)
