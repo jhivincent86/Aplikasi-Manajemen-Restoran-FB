@@ -23,7 +23,7 @@ Pastikan **Python 3.x** sudah terinstal di komputer/laptop Anda. Anda dapat meng
    ```bash
    cd Aplikasi-Manajemen-Restoran-FB
    ```
-
+   
 ### Opsi 2: Tanpa Git (Download ZIP)
 1. Unduh kode sumber aplikasi ini dengan cara:
    - Klik tombol hijau **`<> Code`** di bagian atas halaman GitHub.
